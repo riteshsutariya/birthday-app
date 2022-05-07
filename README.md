@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<p>displays list of peoples data comes from data.js file where static data is stored.</p>
+<p>data passed to Item component as prop and we are passing prop data to state of component.</p>
+<p>when user clicks on clear all we clear the data in state, and component will be re-rendered with updated state.</p>
+<p>when user clicks on get all button data will be setted to state and component will re-render with updated state data</p>
+
+<h4>initial state</h4>
+<br>
+![Alt text](./public/imgs/1.png "Title")
+
+<br><br>
+<h4>clear all button click</h4>
+<br>
+![Alt text](./public/imgs/2.png "Title")
+
+<br><br>
+<h4>get all button click</h4>
+<br>
+![Alt text](./public/imgs/3.png "Title")
