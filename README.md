@@ -75,15 +75,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <p>when user clicks on get all button data will be setted to state and component will re-render with updated state data</p>
 
 <h4>initial state</h4>
-<br>
 
 ![](imgs/1.png)
 
-<br><br>
 <h4>clear all button click</h4>
-<br>
+
 ![](imgs/2.png)
-<br><br>
+
 <h4>get all button click</h4>
-<br>
+
 ![](imgs/3.png)
