@@ -76,13 +76,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <h4>initial state</h4>
 <br>
-![](./public/imgs/1.png)
+![](/imgs/1.png)
 
 <br><br>
 <h4>clear all button click</h4>
 <br>
-![](./public/imgs/2.png)
+![](/imgs/2.png)
 <br><br>
 <h4>get all button click</h4>
 <br>
-![](./public/imgs/3.png)
+![](/imgs/3.png)
